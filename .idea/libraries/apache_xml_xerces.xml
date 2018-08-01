@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-xml-xerces">
+    <CLASSES>
+      <root url="jar://D:/Utilits for Java/Castor/apache-xml-xerces.jar/apache-xml-xerces.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
